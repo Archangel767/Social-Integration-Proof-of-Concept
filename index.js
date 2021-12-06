@@ -1,4 +1,4 @@
-import reddit from '/redditapi';
+import reddit from './redditapi';
 
 const searchForm = document.getElementById('search-form');
 const searchBtn = document.getElementById('search-btn');
