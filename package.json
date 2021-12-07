@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Archangel767/cpnt270-a3/issues"
   },
-  "homepage": "https://github.com/Archangel767/cpnt270-a3#readme"
+  "homepage": "https://github.com/Archangel767/cpnt270-a3#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
