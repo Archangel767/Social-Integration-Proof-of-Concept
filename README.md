@@ -1,4 +1,4 @@
-# Social Integration Proof-of-Concept
+# USER STORY: Social Integration Proof-of-Concept
 
 ## User Story for your target client:
 - As an science and astronomy teacher, I would like a website that curates reddit content, specificly r/space, so that my students can have access to the latest news updates, without needing actually go to go to reddit.com, which is distracting and currently blocked on the school wifi.
@@ -9,3 +9,12 @@
 - The targeted market would be any institution that wishes to have the latest information on a target subject, but is handicapped with heavy restrictions on local network or wifi browsing. 
 
 - By choosing a heavily moderated subreddit such as r/space, you can ensure the most up to date content always being delivered to your students, without worrying about dangerous or lewd content sneaking into the feed.
+
+
+## Links:
+- GitHub Repo: https://github.com/Archangel767/cpnt270-a3
+- Free .me deployment: http://cpnt270-a3.me/cpnt270-a3/
+
+
+## Attributions:
+- [code] Tutorial by Traversty Media: https://www.youtube.com/watch?v=VITzIZB-bXU
